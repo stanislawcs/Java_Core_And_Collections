@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39b26987-9e02-4671-80da-7f914a911a29" name="Changes" comment="wdwqd" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Bg6k2faAexyMXzwFSjUAuM8dzp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/Java Collections&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="ArrayDequeEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue_interface.ArrayDequeEx" />
+      <module name="Java Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue_interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.LinkedListExample" />
+      <module name="Java Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue_interface.PriorityQueueEx1" />
+      <module name="Java Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue_interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue_interface.PriorityQueueEx2" />
+      <module name="Java Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue_interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Java Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.LinkedListExample" />
+        <item itemvalue="Application.ArrayDequeEx" />
+        <item itemvalue="Application.PriorityQueueEx2" />
+        <item itemvalue="Application.PriorityQueueEx1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39b26987-9e02-4671-80da-7f914a911a29" name="Changes" comment="" />
+      <created>1657315524501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657315524501</updated>
+      <workItem from="1657315526826" duration="2202000" />
+      <workItem from="1657356878924" duration="70000" />
+      <workItem from="1657363987135" duration="4889000" />
+      <workItem from="1657468634160" duration="1077000" />
+      <workItem from="1657538247450" duration="1202000" />
+      <workItem from="1657623422950" duration="1308000" />
+      <workItem from="1657806975318" duration="1042000" />
+      <workItem from="1657884168567" duration="6278000" />
+      <workItem from="1657919659326" duration="13000" />
+      <workItem from="1657919697457" duration="7000" />
+      <workItem from="1658061188193" duration="5641000" />
+      <workItem from="1658165936173" duration="5681000" />
+      <workItem from="1658320270072" duration="6093000" />
+      <workItem from="1658400012043" duration="6306000" />
+      <workItem from="1658521867927" duration="238000" />
+      <workItem from="1658597754361" duration="245000" />
+      <workItem from="1658663608940" duration="7123000" />
+      <workItem from="1659548105716" duration="8000" />
+      <workItem from="1659550315826" duration="2409000" />
+      <workItem from="1660297478956" duration="573000" />
+      <workItem from="1660945547108" duration="261000" />
+      <workItem from="1661006900028" duration="1971000" />
+      <workItem from="1661255345850" duration="4268000" />
+      <workItem from="1661339652716" duration="41000" />
+      <workItem from="1661513968734" duration="794000" />
+      <workItem from="1661514909917" duration="1501000" />
+    </task>
+    <task id="LOCAL-00001" summary="wdwqd">
+      <created>1661515411295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661515411295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wdwqd" />
+    <option name="LAST_COMMIT_MESSAGE" value="wdwqd" />
+  </component>
+</project>
